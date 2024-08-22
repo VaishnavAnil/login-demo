@@ -9,5 +9,5 @@ Output Page:
 How to Run:
 To see this page in action, clone the repository and open the linkedin.html file in your browser. For more customization or to integrate this login page into your project, modify the linkedin.css file as needed.
 
-Conclusion
+Conclusion:
 Hope you find this example useful and welcome any feedback or suggestions.
